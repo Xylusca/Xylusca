@@ -1,5 +1,6 @@
 # Ola! Sou Lucas Pereira 😁
-- 📚 Hoje Estou estudando Laravel 
+- 📚 Hoje Estou estudando Laravel
+- 🚀 Objetivo ser desenvolvedor fullstack
 - 💼 Trabalho com manutenção de hardware, software e redes.
 - 📞 Meu Contato: (13) 99127-2890
 - 🏡 Resido em Praia Grande/SP 
