@@ -1,5 +1,5 @@
 # Ola! Sou Lucas Pereira 😁
-- 📚 Hoje Estou estudando Laravel
+- 📚 Hoje faço faculdade ADS na estacio
 - 🚀 Objetivo ser desenvolvedor fullstack
 - 💼 Trabalho com manutenção de hardware, software e redes.
 - 📞 Meu Contato: (13) 99127-2890
