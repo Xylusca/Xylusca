@@ -20,7 +20,7 @@
   <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/260px-PHP-logo.svg.png">
   <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://i1.wp.com/weblion303.net/wp-content/uploads/2018/04/laravel_logo.png?fit=300%2C300&ssl=1">
   <img align="center" alt="Lucas-MySQL" height="30" width="40" src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png">
-  <img align="center" alt="Lucas-MySQL" height="30" width="40" src="https://www.pngmart.com/files/7/Python-Transparent-Background.png">
+  <img align="center" alt="Lucas-MySQL" height="30" width="65" src="https://www.pngmart.com/files/7/Python-Transparent-Background.png">
   
   <img align="right" alt="LucasPereira" height="200" style="border-radius:50px;" src="http://pm1.narvii.com/7739/fab9600eab01edd5cd1e6599e56934633559a116r1-720-720v2_00.jpg">
 </div>
