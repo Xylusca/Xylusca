@@ -1,6 +1,6 @@
 # Ola! Sou Lucas Pereira 😁
 - 📚 Hoje faço faculdade ADS na Universidade Estácio de Sá
-- 🚀 Sou desenvolvedor full-stack php júnior  
+- 🚀 Sou desenvolvedor full-stack PHP  
 - 💼 Trabalho como desenvolvedor freelancer e faço estágio.
 - 📞 Meu Contato: (13) 99127-2890
 - 🏡 Resido em Praia Grande/SP 
