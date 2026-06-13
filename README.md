@@ -1,10 +1,6 @@
 # Ola! Sou Lucas Pereira 😁
-- 📚 Faculdade Concluída ADS na Universidade Estácio de Sá
+- 📚 PÓS TECH Software Architecture
 - 🚀 Sou desenvolvedor full-stack PHP  
-- 💼 Trabalho como desenvolvedor freelancer e faço estágio.
-- 📞 Meu Contato: (13) 99127-2890
-- 🏡 Resido em Santos/SP 
-- 🎭 Lazer assistir animes  
 
 <div align="center">
   <a href="https://github.com/Xylusca">
